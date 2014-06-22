@@ -1,0 +1,13 @@
+#map-container { 
+	width: 50%;
+	height: 480px;
+}
+
+
+#map-container {  
+    border: 2px solid #CCC; 
+    margin-bottom: 20px; 
+    background-color:#FFF 
+}
+
+
